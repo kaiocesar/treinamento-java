@@ -1,0 +1,7 @@
+package com.excript.aula003;
+
+public class Aula003 {
+	// tudo são classes no JAVA
+	// essas classes estão organizadas dentro de pacotes
+	// packages > class > methods > variables
+}

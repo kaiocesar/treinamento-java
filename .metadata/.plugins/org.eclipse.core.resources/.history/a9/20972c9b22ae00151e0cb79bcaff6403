@@ -1,0 +1,20 @@
+package com.excript.aula0008;
+
+import java.util.Scanner;
+
+public class Aula0008 {
+
+	public static void main(String[] args){
+		/**
+		 * Programa que converte a idade de um cão para a idade humana.
+		 */
+		System.out.println("Informe a idade do seu cachorro: ");
+		Scanner in = new Scanner(System.in);
+		int idade_cao = in.nextInt();
+		int idade_humana = idade_cao * 7;
+		System.out.println("O seu cão tem "+idade_humana+" anos de idade humanos.");
+		
+		
+	}
+	
+}

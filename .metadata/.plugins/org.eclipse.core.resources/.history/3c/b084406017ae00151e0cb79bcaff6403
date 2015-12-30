@@ -1,0 +1,14 @@
+package aula1;
+
+public class HelloWorld {
+
+	public static void main(String[] args){
+		
+		int numer = 10;
+		int numer2 = 20;
+		int soma = numer + numer2;
+		
+		System.out.println("Seja bem vindo a poha do JAVA" + soma );
+	}
+	
+}

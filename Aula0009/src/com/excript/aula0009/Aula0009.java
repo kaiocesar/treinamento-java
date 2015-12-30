@@ -1,0 +1,29 @@
+package com.excript.aula0009;
+
+import java.util.Scanner;
+
+public class Aula0009 {
+
+	public static void main(String[] args){
+		double multiplicacao, divisao, soma, subtracao, num1, num2;
+		Scanner in = new Scanner(System.in);
+		
+		System.out.println("Digite um número:");
+		num1 = in.nextDouble();
+	
+		System.out.println("Digite outro número");
+		num2 = in.nextDouble();
+		
+		soma = num1 + num2;
+		subtracao = num1 - num2;
+		multiplicacao = num1 * num2;
+		divisao = num1 / num2;
+		
+		System.out.println("Resultado da soma: "+ soma);
+		System.out.println("Resultado da subtração: "+ subtracao);
+		System.out.println("Resultado da multiplicação: "+ multiplicacao);
+		System.out.println("Resultado da divisão: "+ divisao);
+		
+	}
+	
+}

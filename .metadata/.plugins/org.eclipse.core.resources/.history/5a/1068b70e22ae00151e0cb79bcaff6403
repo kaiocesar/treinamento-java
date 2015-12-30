@@ -1,0 +1,11 @@
+package com.excript.aula0008;
+
+import java.util.Scanner;
+
+public class Aula0008 {
+
+	public static void main(String[] args){
+		
+	}
+	
+}
