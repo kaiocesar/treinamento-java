@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 .idea
 */.project
 */.settings
 */.classpath
-=======
+.metadata
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -14,6 +13,4 @@
 *.war
 *.ear
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
->>>>>>> 04e2ff8d57c8b32e27a9c9a3ef4d884d139a25cc
+.recommenders
